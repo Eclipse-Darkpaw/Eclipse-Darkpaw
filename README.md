@@ -1,10 +1,10 @@
 # About Me
-Hi, I'm Autumn, a discord bot programmer with about a year and half of experience in python under my belt. Currently, my biggest project is my three bots found in Eclipse-Darkpaw/Echo. They are the result of over three years of programming and learning how to work with python. I've learned so much with the bots and am still learning a lot from them (like the importance of proper documentation). The bots are the best way for me to tell I'm improving my skills at all, ~~since they're the only project I haven't completely abandoned.~~ My latest development is a system that detects and deletes scam messages in discord servers, and alerts when its unsure of the message at hand.
+Hi, I'm Autumn, a discord bot programmer with about 4 years of experience in python under my belt. Currently, my biggest project is my seven bots found in Eclipse-Darkpaw/Echo. They are the result of over three years of programming and learning how to work with python. I've learned so much with the bots and am still learning a lot from them (like the importance of proper documentation). The bots are the best way for me to tell I'm improving my skills at all, ~~since they're the only project I haven't completely abandoned.~~ My latest development is a system that detects and deletes scam messages in discord servers, and alerts when its unsure of the message at hand.
 
-Currently, I'm working towards A computer science and mathematics degree, with a focus in Cybersecurity and encryption, so im hoping P != NP. 
+Currently, I'm working towards A Cybersecurity Analytics degree, with a focus in Forensic science. 
 
 # Contact Info
-If you want to reach me, send me an email to leebear4@gmail.com, and I'll respond as soon as possible.
+If you want to reach me, send me an email to github-public@autumna1equin0x.pet, and I'll respond as soon as possible.
 
 <!---
 - 👋 Hi, I’m @Eclipse-Darkpaw
